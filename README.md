@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**galileoSolution/galileoSolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eniola is a machine learning engineer who loves building machine learning models for educational as well as social purposes,he participates actively in Data Science Competitions ([Kaggle](kaggle.com), [Zindi](zindi.africa) etc.) to solve real world problems and expand his skill sets he is currently ranked **6th** in a global pool of about 20k data scientist on [zindi](https://zindi.africa/users/OLALEYE_ENIOLA_DSN).
+![pics.JPG](https://drive.google.com/uc?export=view&id=1ilDWKiQ7ghYWHu6wjl8Ro3I6a207-za2)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on cool projects
+- 🌱 I’m currently learning [docker](https://www.docker.com/),[kubernetes](https://kubernetes.io/) ,Flask and web-interface for Ai products deployment.
+- 👯 I’m looking to collaborate on open source tools for data science and machine learning.
+- 🤔 I’m looking for help with being the best version of myself.
+- 💬 Ask me about programming , Robotics , Machine Learning and Data Science.
+- 📫 How to reach me: Email (eniolaolaleye426@gmail.com) [Twitter](https://twitter.com/galileoeni), [Linkedin](https://www.linkedin.com/in/eniola-olaleye-361b39160/).
+- 😄  ⚡ I'm open to work!
+###    ⚡ Fun fact:
+* love teaching and sharing Knowledge!
+* South Paw!
+              
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
