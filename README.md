@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[blogs](https://eniolaolaleye426.medium.com/)
+[my blogs](https://eniolaolaleye426.medium.com/)
+
+[youtube video](https://www.youtube.com/channel/UCvfbrNAeNOSruWU7LVQpUng)
 
 Eniola is a machine learning engineer who loves building machine learning models for educational as well as social purposes,he participates actively in Data Science Competitions ([Kaggle](https://kaggle.com/unilageni), [Zindi](https://zindi.africa/users/OLALEYE_ENIOLA_DSN) etc.) to solve real world problems and expand his skill sets he is currently ranked **6th** in a global pool of about 20k data scientist on [zindi](https://zindi.africa/users/OLALEYE_ENIOLA_DSN).
 
@@ -20,4 +22,3 @@ Eniola is a machine learning engineer who loves building machine learning models
               
 
 
-https://drive.google.com/file/d//view?usp=sharing
