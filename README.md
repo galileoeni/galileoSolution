@@ -17,7 +17,6 @@ Eniola is a machine learning engineer who loves building machine learning models
 - 📫 How to reach me: Email (eniolaolaleye426@gmail.com) [Twitter](https://twitter.com/galileoeni), [Linkedin](https://www.linkedin.com/in/eniola-olaleye-361b39160/).
 - 😄  ⚡ I'm open to work!
 ###    ⚡ Fun fact:
-* love teaching and sharing Knowledge!
 * South Paw!
 * Ambidextral
               
