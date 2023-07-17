@@ -2,7 +2,7 @@
 
 [my blogs](https://eniolaolaleye426.medium.com/)
 
-[my portfolio](https://galileosolution.github.io/galileo/#/)
+[my portfolio](https://galileoeni.github.io/galileo/#/)
 
 [youtube video](https://www.youtube.com/channel/UCvfbrNAeNOSruWU7LVQpUng)
 
